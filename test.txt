@@ -1,2 +1,1 @@
-"plik testowy" 
-"nowa zawartosc pliku" 
+"zupelnie nowa zawartosc pliku" 
