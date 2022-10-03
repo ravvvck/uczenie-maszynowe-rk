@@ -1,1 +1,1 @@
-"plik testowy" 
+"zupelnie nowa zawartosc pliku" 
